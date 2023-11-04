@@ -1,0 +1,50 @@
+[
+  {
+    "brand_name": "Burberry",
+    "id": 987654,
+    "price": "$49.99",
+    "rating": 4.5,
+    "description": "The Burberry product is a stylish choice for all your fashion needs. It offers outstanding design and quality.",
+    "image_url": "https://i.ibb.co/nf6m2Gq/Burberry.jpg"
+  },
+  {
+    "brand_name": "Louis Vuitton",
+    "id": 123456,
+    "price": "$79.99",
+    "rating": 4.2,
+    "description": "Louis Vuitton presents this trendy item that will elevate your fashion game. Get it today.",
+    "image_url": "https://i.ibb.co/4dhBcvz/Color-Louis-Vuitton-Logo.jpg"
+  },
+  {
+    "brand_name": "Chanel",
+    "id": 567890,
+    "price": "$29.99",
+    "rating": 4.0,
+    "description": "The Chanel accessory is affordable and fashionable, making it a must-have for style enthusiasts.",
+    "image_url": "https://i.ibb.co/RDTYVQd/channel1.jpg"
+  },
+  {
+    "brand_name": "Ralph Lauren",
+    "id": 345678,
+    "price": "$99.99",
+    "rating": 4.8,
+    "description": "Ralph Lauren proudly offers a premium fashion product that consistently receives rave reviews from our customers.",
+    "image_url": "https://i.ibb.co/VqQ6wsh/Polo-Red.png"
+  },
+  {
+    "brand_name": "Gucci",
+    "id": 456789,
+    "price": "$59.99",
+    "rating": 4.6,
+    "description": "The Gucci clothing item combines style and comfort, delivering an exceptional fashion experience that you'll love.",
+    "image_url": "https://i.ibb.co/Vx67zQ7/gucci.png"
+  },
+  {
+    "brand_name": "Armani",
+    "id": 234567,
+    "price": "$69.99",
+    "rating": 4.4,
+    "description": "Armani is the epitome of fashion elegance, offering a timeless style that suits your taste perfectly.",
+    "image_url": "https://i.ibb.co/288swCw/armani-logo-cover.png"
+  }
+]
